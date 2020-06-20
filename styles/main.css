@@ -5,7 +5,7 @@ button {
     background-color: #8C52FF;
     color: #FFDE59;
     padding: 15px;
-    font-size: 24.5px;
+    font-size: 24px;
     font-weight: bold;
     cursor: pointer;
     text-align: center;
@@ -56,3 +56,19 @@ h5 {
     text-align: center;
 
 }
+
+div.a {
+  text-align: left;
+}
+
+div.b {
+  text-align: center;
+}
+
+div.c {
+  text-align: right;
+} 
+
+div.d {
+  text-align: justify;
+} 
