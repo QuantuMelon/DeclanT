@@ -11,6 +11,12 @@ button {
     text-align: center;
 }
 
+.buttonTitles {
+	width: 25%;
+}
+
+
+
 body {
 	background-color: #030303;
     }
