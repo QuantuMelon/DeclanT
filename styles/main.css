@@ -4,7 +4,7 @@ button {
     border: 2px;
     background-color: #8C52FF;
     color: #FFDE59;
-    padding: 15px;
+    padding: 15px 15px;
     font-size: 24px;
     font-weight: bold;
     cursor: pointer;
