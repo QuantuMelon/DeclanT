@@ -1,5 +1,5 @@
 button {
-	display: button;
+    display: flex;
     width: 20%;
     border: 2px;
     background-color: #8C52FF;
